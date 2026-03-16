@@ -1,5 +1,4 @@
-# LD Tax Portal QA Testing
-Manual QA testing documentation for the LD Tax Portal covering registration and login modules.
+
 # LD Tax Portal QA Testing
 
 This repository contains manual QA testing documentation prepared for the LD Tax Portal: https://www.ldtax.gov.bd/
